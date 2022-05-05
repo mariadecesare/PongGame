@@ -1,2 +1,2 @@
 # PongGame
-A game of ping pong build with Java.
+A game of ping pong built with Java.
